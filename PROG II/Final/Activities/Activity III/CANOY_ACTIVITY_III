@@ -7,7 +7,7 @@ int
 num
 x
 return
-boolean
+void
 {
 name
 else
